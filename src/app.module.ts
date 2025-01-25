@@ -21,7 +21,7 @@ import { SeedModule } from './seed/seed.module';
 
     // npm install --save @nestjs/typeorm typeorm
     // npm install pg --save
-    // IMPORTANTE: si no conecta la base de datos hay que crear la base manualmente
+    // IMPORTANTE: Postgres si no conecta la base de datos hay que crear la base manualmente
     TypeOrmModule.forRoot({
       type: 'postgres',
       host: process.env.DATABASE_URI,
