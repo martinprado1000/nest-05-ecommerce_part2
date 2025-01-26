@@ -73,7 +73,7 @@ Configuraciones:
 
 * Solo configuración de la db en docker.
 
---Es la parte 2 del ecommerce.--
+* --------------------- Part 2 ------------------------------ 
 
 * Aplanamos el retorno de las imagenes.
 
